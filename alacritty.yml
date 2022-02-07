@@ -20,7 +20,7 @@ window:
   dimensions:
     columns: 80
     lines: 24
-
+  opacity: 0.6
   # Adds this many blank pixels of padding around the window
   # Units are physical pixels; this is not DPI aware.
   # (change requires restart)
@@ -155,8 +155,6 @@ colors:
 #
 # To completely disable the visual bell, set its duration to 0.
 #
-# Background opacity
-background_opacity: 0.6
 
 # Mouse bindings
 #
